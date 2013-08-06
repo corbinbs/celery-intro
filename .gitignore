@@ -1,0 +1,5 @@
+*.pyc
+talk/target
+celery-schedule.db
+celerydb.sqlite
+.idea
